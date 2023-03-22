@@ -1,2 +1,4 @@
+Website content (text and images) Copyright (C) 2023 Dakota State University Collegiate Entrepreneurs Organization.
 
-Copyright (C) 2023 Anden Wieseler
+Website design (colors, layout, etc.) Copyright (C) 2023 Anden Wieseler. All Rights Reserved.
+
